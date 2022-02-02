@@ -4,7 +4,7 @@
 - .vimrc
 - .tmux.conf
 
-## CreateSymbolicLink.sh でシンボリックリンクを張る
-ホームディレクトリと.vimrcのシンボリックリンクを作成する  
+## シンボリックリンクの作成
+`CreateSymboricLink.sh`でホームディレクトリと.vimrcのシンボリックリンクを作成する  
 .tmux.confは`tmux soure-file conf_files/.tmux.conf` で直接読む  
 
