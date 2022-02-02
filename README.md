@@ -6,5 +6,5 @@
 
 ## シンボリックリンクの作成
 `CreateSymboricLink.sh`でホームディレクトリと.vimrcのシンボリックリンクを作成する  
-.tmux.confは`tmux soure-file conf_files/.tmux.conf` で直接読む  
+.tmux.confは`tmux soure-file conf_files/.tmux.conf` で直接読み込む  
 
